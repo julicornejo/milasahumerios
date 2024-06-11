@@ -1,0 +1,28 @@
+/* Aquí puedes agregar tus estilos personalizados */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+footer h5 {
+    color: #333;
+}
+
+footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+.carousel-item img {
+    height: 1500px;
+    object-fit: cover;
+}
